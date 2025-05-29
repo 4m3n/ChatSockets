@@ -46,4 +46,3 @@ Editar
 ## 📝 Licencia
 
 Este proyecto se distribuye con fines educativos. Puedes modificarlo y reutilizarlo bajo los términos que indique el autor.
-¿Quieres que este README incluya imágenes, instrucciones para empaqueta
